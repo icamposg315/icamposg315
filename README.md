@@ -1,6 +1,8 @@
 
 # *Ismael Campos Gallego*
-:baby_chick:
+
+:baby_chick: Actualmente me encuentro cursando desarrollo de aplicaciones multiplataformas (DAM) en IMF Smart Education
+
 ![logo](https://github.com/icamposg315/icamposg315/blob/main/assests/Foto.png)
 
 <!--
