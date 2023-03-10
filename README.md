@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![logo]https://github.com/icamposg315/icamposg315/blob/main/assests/Foto.png
+![logo](https://github.com/icamposg315/icamposg315/blob/main/assests/Foto.png)
 
 <!--
 **icamposg315/icamposg315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
